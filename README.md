@@ -6,22 +6,6 @@
 
 
 
-[
-
-](https://choosealicense.com/licenses/mit/)
-[
-
-](https://nextjs.org/)
-[
-
-](https://www.typescriptlang.org/)
-[
-
-](https://tailwindcss.com/)
-[
-
-](https://ui.shadcn.com/)
-
 ## 🔐 Modern Security & Risk Monitoring Platform
 
 SentinelHQ is a comprehensive security monitoring dashboard designed for startups and mid-sized organizations. It provides real-time visibility into security events, user activities, and potential threats across your digital infrastructure.
